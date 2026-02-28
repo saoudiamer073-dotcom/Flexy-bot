@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-ADMIN_ID = 123456789  # حط هنا رقمك من @userinfobot
+ADMIN_ID = 6077607449  # حط هنا رقمك من @userinfobot
 
 bot = telebot.TeleBot(TOKEN)
 
